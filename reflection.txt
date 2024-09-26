@@ -1,0 +1,9 @@
+Rayan Haq
+Professor Z
+CS151
+09-20-24
+Reflection
+	First question asked is how was it solving a problem for someone you know. To me it was actually pretty fun. This is because it was the first time interacting with a friend of mine from another school regarding something academic. When you talk to your friends it's usually about sports or family, or about politics. Ninety percent of the time you never talk about math. So when I asked my friend if he needed any problem solved he gave me a quadratic equation.
+	Working without a partner was for sure harder. This is because you cannot talk to anyone when you get to a problem. So you have to use other resources. Luckily we learned about the import math class in zy books. Otherwise I would have been struggling if I didn't learn it from there. But at the same time it makes you independent, making you be able to work by yourself which is also a crucial skill in life.
+	I learned that knowing the math skills before starting to create the algorithm is crucial for the algorithm to make sense. When doing regular math you know that when calculating the discriminant you cannot have a negative in the square root. So if there is, there will be an error in python. So importing the math class was necessary.
+	What would I do differently next time? So when my code outputs it adds a j for some reason. The output is correct for the right answer but it just adds a j. So if I can somehow figure out how to get rid of that j it would be nice. So I probably need to do some research in order to figure that out. Otherwise there's not much that I would do differently because my code works after completing the algorithm.

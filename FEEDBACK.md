@@ -4,52 +4,50 @@
 
 ### Comments:
 - Intro comments complete and clear
-    - **YES-NO**
+    - **YES-**
 - Appropriate in-line commentary given
-    - **YES-NO**
+    - **YES-**
 
 ### Format:
 - Proper use of upper/lowercase
-    - **YES-NO**
+    - **YES-**
 - Appropriate use of whitespace
-    - **YES-NO**
+    - **YES-**
 
 ### Supporting Documents:
 - Algorithm updated based on design feedback
-    - **YES-NO**
+    - **YES-**
 - Test cases
-    - **YES-NO**
+    - **YES-**
 - Reflection
-    - **YES-NO**
+    - **YES-**
 
 ### Correctness/Completeness Issues:
 - Same problem solved as discussed in design phase
-    - **YES-NO**
+    - **YES-**
 - User input done correctly
-    - **YES-NO**
+    - **YES-**
 - Correct types used
-    - **YES-NO**
+    - **YES-**
 - Code follows final algorithm
-    - **YES-NO**
+    - **YES-**
 - Math is correct
-    - **YES-NO**
+    - **YES-**
 - Math includes more than 1 operation
-    - **YES-NO**
+    - **YES-**
 - No other logic errors
-    - **YES-NO**
+    - **YES-**
 
 ### Design Issues:
 - Appropriate variable names
-    - **YES-NO**
+    - **YES-**
 - Purpose output at beginning
-    - **YES-NO**
+    - **YES-**
 - Clear prompts
-    - **YES-NO**
+    - **YES-**
 - Clear and well formatted output
-    - **YES-NO**
+    - **YES-**
 
 ### Comments on the grading
-- There is nothing to code here. 
-- Make sure you pushed the python file
-- No supporting documents 
-### Grade: N
+
+### Grade: E
